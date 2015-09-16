@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 取因假設論
+#+DATE: 2015-08-30 20:58:38.519965
+#+PROPERTY: JUAN 0
