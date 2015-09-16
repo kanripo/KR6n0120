@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:38.309759
+#+DATE: 2015-08-30 20:58:39.479132
 #+TITLE: 取因假設論
 #+PROPERTY: CBETA_ID T31n1622
 #+PROPERTY: ID KR6n0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1622
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0120_T_000-0885a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0120_T_001-0885a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1622¶
-
- 《取因假設論》一卷¶
+No. 1622¶
+《取因假設論》一卷¶
 ¶
 陳那菩薩造¶
 三藏法師義淨奉　制譯¶
@@ -246,7 +245,7 @@ No.1622¶
 堵波等。福德差殊。應皆非有。又相續別故。其¶
 福亦殊。如世尊告勇健長者曰。若有苾芻。受¶
 食食已。入無量意定。正念而住。於如是等福¶
-德差別。應成非有。若不許有分位差別者。此¶
+德差別。應成非有。苦不許有分位差別者。此¶
 差別故。業用差別亦成非有。事雖不殊勢力¶
 有異。其用亦別。是共許故。猶如毒藥。和餘物¶
 時。便為害命。療病用故。如是等類。撥無其¶
